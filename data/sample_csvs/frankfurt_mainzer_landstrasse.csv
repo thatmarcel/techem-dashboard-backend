@@ -1,0 +1,9 @@
+Date,postal_code,city,street,house_number,apartment,energy_source,energy_usage_kwh,living_area_m2,outside_temperature_c,rooms,co2_factor_g_per_kwh,unit_number
+2026-04-20,60329,Frankfurt,Mainzer Landstrasse,42,2,gas,37.8,64,8.6,2,240,FML42-02
+2026-04-21,60329,Frankfurt,Mainzer Landstrasse,42,2,gas,35.2,64,10.0,2,240,FML42-02
+2026-04-22,60329,Frankfurt,Mainzer Landstrasse,42,2,gas,40.0,64,7.4,2,240,FML42-02
+2026-04-23,60329,Frankfurt,Mainzer Landstrasse,42,2,gas,38.5,64,8.9,2,240,FML42-02
+2026-04-20,60329,Frankfurt,Mainzer Landstrasse,42,8,gas,44.0,76,8.6,3,240,FML42-08
+2026-04-21,60329,Frankfurt,Mainzer Landstrasse,42,8,gas,42.5,76,10.0,3,240,FML42-08
+2026-04-22,60329,Frankfurt,Mainzer Landstrasse,42,8,gas,48.3,76,7.4,3,240,FML42-08
+2026-04-23,60329,Frankfurt,Mainzer Landstrasse,42,8,gas,46.1,76,8.9,3,240,FML42-08

@@ -1,0 +1,2 @@
+date,zipcode,energysource,city,energyusage [kWh],livingspace [m²],mean outside temperature [°C],roomnumber,emission factor [g/kWh],unitnumber,street_name,house_number,building,apartment_number
+2019-12-31,6110,Erdgas,Halle,0.71,9.4,4.1,1,181.39,1,Merseburger Straße,12,Halle Merseburger Straße 12,1

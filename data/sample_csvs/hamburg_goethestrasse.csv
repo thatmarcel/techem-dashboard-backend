@@ -1,0 +1,9 @@
+date,zipcode,city,street,housenumber,apartment_number,energysource,energyusage_kwh,livingspace_m2,mean_outside_temperature_c,roomnumber,emission_factor_g_per_kwh,unitnumber
+2026-04-20,20095,Hamburg,Goethestrasse,13,4,gas,49.2,70,6.2,3,240,HG13-04
+2026-04-21,20095,Hamburg,Goethestrasse,13,4,gas,50.1,70,6.8,3,240,HG13-04
+2026-04-22,20095,Hamburg,Goethestrasse,13,4,gas,52.9,70,5.7,3,240,HG13-04
+2026-04-23,20095,Hamburg,Goethestrasse,13,4,gas,51.0,70,7.2,3,240,HG13-04
+2026-04-20,20095,Hamburg,Goethestrasse,13,8,gas,61.5,92,6.2,4,240,HG13-08
+2026-04-21,20095,Hamburg,Goethestrasse,13,8,gas,59.0,92,6.8,4,240,HG13-08
+2026-04-22,20095,Hamburg,Goethestrasse,13,8,gas,64.4,92,5.7,4,240,HG13-08
+2026-04-23,20095,Hamburg,Goethestrasse,13,8,gas,62.8,92,7.2,4,240,HG13-08

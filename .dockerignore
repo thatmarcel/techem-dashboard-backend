@@ -1,0 +1,5 @@
+/.uv-cache
+/.uv-python
+/.venv
+.DS_Store
+/.git

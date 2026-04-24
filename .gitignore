@@ -1,0 +1,6 @@
+.uv-cache
+.uv-python
+.venv
+.DS_Store
+__pycache__
+.tmp
