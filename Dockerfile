@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .´
 
-ENTRYPOINT ["uv", "run", "uvicorn", '"app.main:app", "--host", "0.0.0.0", "--port", "4000"]
+ENTRYPOINT ["uv", "run", "uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "4000"]
